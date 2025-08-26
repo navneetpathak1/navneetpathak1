@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 - 📫 How to reach me: **navneetpathak1909@gmail.com**
-
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
